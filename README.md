@@ -1,34 +1,22 @@
 # Olá, eu sou Denis Reis 👋
 
-Desenvolvedor Front-End em transição de carreira.
+💻 Desenvolvedor Front-End em transição de carreira.
 
-## Tecnologias
+Atualmente estudando e desenvolvendo projetos com foco em desenvolvimento web.
+
+## 🚀 Tecnologias
 
 - HTML
 - CSS
 - JavaScript
 - Angular
+- Git e GitHub
 
-## Projetos
+## 📂 Projetos
 
-- Lista de Tarefas
-- Controle Financeiro
+🔹 Lista de Tarefas  
+🔹 Controle Financeiro  
 
-## Objetivo
+## 🎯 Objetivo
 
-Buscando oportunidade como Desenvolvedor Front-End para aplicar conhecimentos em desenvolvimento web.## Hi there 👋
-
-<!--
-**DenisReis8/DenisReis8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Buscando oportunidade como Desenvolvedor Front-End para aplicar conhecimentos em desenvolvimento web e evoluir na área de tecnologia.
